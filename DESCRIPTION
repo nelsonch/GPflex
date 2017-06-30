@@ -1,0 +1,11 @@
+Package: GPflex
+Type: Package
+Title: Flexible Correlation in Bayesian Gaussian Process Emulation
+Version: 0.1.0
+Author: Hao Chen and William J. Welch
+Maintainer: Hao Chen <hao.chen@stat.ubc.ca>
+Description: an R package to estimate the unknown parameters of Gaussian process using Bayesian analysis. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
