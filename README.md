@@ -1,6 +1,6 @@
 GPflex
 
-An R package for estimating the unknown parameters of a Gaussian process with flexible correlation structures.
+R package for estimating the unknown parameters of a Gaussian process with flexible correlation structures.
 
 I. Introduction
 
