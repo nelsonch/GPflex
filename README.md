@@ -1,6 +1,6 @@
 GPflex
 
-R package for estimating the unknown parameters of a Gaussian process with flexible correlation structures.
+R package for estimating the unknown parameters of a Gaussian process with flexible correlation structures. This package was built to support the reproduction of the results reported in our paper published in ASA/SIAM Journal on Uncertainty Quantification.  
 
 I. Introduction
 
@@ -31,5 +31,3 @@ DEMO
 A simple DEMO with three correlation structures (Power_Hybrid, Power_Full and Matern_Hybrid) is available at http://htmlpreview.github.io/?https://github.com/nelsonch/GPflex/blob/master/DEMO.html
 
 To cite: Chen, H., Loeppky, J.L., and Welch, W.J. (2017), Flexible Correlation Structure for Accurate Prediction and Uncertainty Quantification in Bayesian Gaussian Process Emulation of a Computer Model, SIAM/ASA Journal on Uncertainty Quantification, 5 (1), 598-620.
-
-Feel free to email the author (Hao (Nelson) Chen) should you have any questions at hao.chen@stat.ubc.ca
