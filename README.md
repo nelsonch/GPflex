@@ -1,8 +1,8 @@
-GPflex
+# GPflex
 
 R package for estimating the unknown parameters of a Gaussian process with flexible correlation structures. 
 
-I. Introduction
+## Introduction
 
 The current version (v0.1.0) implements GP with three correlation structures: hybrid power-exponential, full power-exponential and hybrid matern structure. Please use the following codes to see the help files for inputs to the functions.
 
