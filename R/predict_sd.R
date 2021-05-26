@@ -21,7 +21,8 @@ s.square1 <- function(sigma,r,R){
   #tem1<-1-as.numeric(diag(fRinf))
   #rm(fRinf)
   ###### changed to optimize the speed
-  tem1 = 1 - as.numeric(t(Rinf^2)%*%matrix(1, nrow=dim(Rinf)[1], ncol=1))
+  #tem1 = 1 - as.numeric(t(Rinf^2)%*%matrix(1, nrow=dim(Rinf)[1], ncol=1))
+  tem1 = 1 - colSums(Rinf^2)
   w<-backsolve(U,one,transpose=T)
   FRr<-crossprod(w,Rinf)
   FRF<-crossprod(w)
