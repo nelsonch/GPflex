@@ -32,4 +32,4 @@ A DEMO with three correlation structures (Power_Hybrid, Power_Full and Matern_Hy
 
 To cite: Chen, H., Loeppky, J.L., and Welch, W.J. (2017), Flexible Correlation Structure for Accurate Prediction and Uncertainty Quantification in Bayesian Gaussian Process Emulation of a Computer Model, SIAM/ASA Journal on Uncertainty Quantification, 5 (1), 598-620.
 
-The paper can be downloaded at https://epubs.siam.org/doi/abs/10.1137/15M1008774
+The paper can be downloaded at https://doi.org/10.1137/15M1008774
